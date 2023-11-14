@@ -126,3 +126,19 @@ button {
     font-weight: 700;
     letter-spacing: 0.5px;
 }
+
+/* interactive  */
+
+a:hover {
+    color: hsl(264, 100%, 54%);
+}
+
+.payment:hover {
+    background-color: hsl(264, 100%, 54%);
+    cursor: pointer;
+}
+
+.cancel:hover {
+    color: hsl(223, 47%, 23%);
+    cursor: pointer;
+}
